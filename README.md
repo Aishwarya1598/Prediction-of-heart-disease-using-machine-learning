@@ -1,1 +1,1 @@
-# Prediction-of-disease-using-deep-learning-and-machine-learning
+# Prediction-of-heart-disease-using-machine-learning
